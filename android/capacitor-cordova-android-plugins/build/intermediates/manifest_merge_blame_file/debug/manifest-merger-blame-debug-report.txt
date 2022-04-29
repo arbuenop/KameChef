@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:amazon="http://schemas.amazon.com/apk/res/android"
+3    xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="capacitor.android.plugins" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="21"
+7-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="30" />
+8-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+10-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:15:1-76
+10-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:15:18-74
+11
+12    <application>
+12-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:5:1-14:15
+13        <receiver
+13-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:6:1-10:12
+14            android:name="nl.xservices.plugins.ShareChooserPendingIntent"
+14-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:6:11-72
+15            android:enabled="true" >
+15-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:6:73-95
+16            <intent-filter>
+16-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:7:3-9:19
+17                <action android:name="android.intent.action.SEND" />
+17-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:8:5-56
+17-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:8:13-54
+18            </intent-filter>
+19        </receiver>
+20
+21        <provider
+21-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:1-13:12
+22            android:name="nl.xservices.plugins.FileProvider"
+22-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:127-175
+23            android:authorities="${applicationId}.sharing.provider"
+23-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:11-66
+24            android:exported="false"
+24-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:67-91
+25            android:grantUriPermissions="true" >
+25-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:92-126
+26            <meta-data
+26-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:12:3-104
+27                android:name="android.support.FILE_PROVIDER_PATHS"
+27-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:12:14-64
+28                android:resource="@xml/sharing_paths" />
+28-->/home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:12:65-102
+29        </provider>
+30    </application>
+31
+32</manifest>

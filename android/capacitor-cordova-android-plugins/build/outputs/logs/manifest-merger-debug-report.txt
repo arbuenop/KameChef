@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:2:1-16:12
+	xmlns:amazon
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:4:1-57
+	package
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:2:11-46
+		INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+		INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:3:1-59
+application
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:5:1-14:15
+receiver#nl.xservices.plugins.ShareChooserPendingIntent
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:6:1-10:12
+	android:enabled
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:6:73-95
+	android:name
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:6:11-72
+intent-filter#action:name:android.intent.action.SEND
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:7:3-9:19
+action#android.intent.action.SEND
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:8:5-56
+	android:name
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:8:13-54
+provider#nl.xservices.plugins.FileProvider
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:1-13:12
+	android:grantUriPermissions
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:92-126
+	android:authorities
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:11-66
+	android:exported
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:67-91
+	android:name
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:11:127-175
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:12:3-104
+	android:resource
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:12:65-102
+	android:name
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:12:14-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:15:1-76
+	android:name
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml:15:18-74
+uses-sdk
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+		INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+		ADDED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml
+		INJECTED from /home/wizark/Documentos/Angular(ionic)/KameChef/android/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml

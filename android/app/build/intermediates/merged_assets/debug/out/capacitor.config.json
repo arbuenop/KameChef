@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "KameChef",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

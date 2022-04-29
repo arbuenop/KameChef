@@ -1,0 +1,7 @@
+{
+  "name": "KameChef",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

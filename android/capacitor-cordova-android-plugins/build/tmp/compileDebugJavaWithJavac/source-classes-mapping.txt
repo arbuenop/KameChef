@@ -1,0 +1,19 @@
+capacitor/android/plugins/BuildConfig.java
+ capacitor.android.plugins.BuildConfig
+nl/xservices/plugins/FileProvider.java
+ nl.xservices.plugins.FileProvider
+nl/xservices/plugins/ShareChooserPendingIntent.java
+ nl.xservices.plugins.ShareChooserPendingIntent
+nl/xservices/plugins/SocialSharing.java
+ nl.xservices.plugins.SocialSharing
+ nl.xservices.plugins.SocialSharing$1
+ nl.xservices.plugins.SocialSharing$1$1
+ nl.xservices.plugins.SocialSharing$2
+ nl.xservices.plugins.SocialSharing$2$1
+ nl.xservices.plugins.SocialSharing$2$2
+ nl.xservices.plugins.SocialSharing$2$2$1
+ nl.xservices.plugins.SocialSharing$2$3
+ nl.xservices.plugins.SocialSharing$3
+ nl.xservices.plugins.SocialSharing$3$1
+ nl.xservices.plugins.SocialSharing$4
+ nl.xservices.plugins.SocialSharing$SocialSharingRunnable
